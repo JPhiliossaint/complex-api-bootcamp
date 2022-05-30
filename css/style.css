@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+body{
+    background-image: url(./../images/whos_that_pokemon.webp);
+    background-size: cover;
+    font-family: 'Pokemon Solid', sans-serif;
+}
+h1{
+    color: gold;
+}
+section{
+    margin-left: 12vw;
+    margin-top: 15vh;
+}
+h1{
+    font-size: 50px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(58, 101, 170);
+}
+h2{
+    color: gold;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(58, 101, 170);
+}
+img{
+    height: 50vh;
+    width: auto;
+    margin-left: 8vw;
+}

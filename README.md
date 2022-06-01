@@ -9,7 +9,7 @@ Used two apis in tandem wit fetch's to generate different results based of user 
 
 ## Optimizations
 
-The limitation of the Gif api makes it inable to filter if what is beign presented is actually from an Pokemon( THough the names are unique). So in theory I could make my own gif api to ensure this or figure out a way to filter gifs based on contents (more complex)
+The limitation of the Gif api makes it inable to filter if what is being presented is actually from an Pokemon( THough the names are unique). So in theory I could make my own gif api to ensure this or figure out a way to filter gifs based on contents (more complex)
 
 ## Lessons Learned:
 

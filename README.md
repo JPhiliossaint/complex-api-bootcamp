@@ -1,22 +1,16 @@
-# 📊 Project: Complex API 
+![golisopod](https://user-images.githubusercontent.com/102938926/171498741-8246f350-e325-4708-be15-8723e024e40b.gif)
 
-### Goal: Use data returned from one api to make a request to another api and display the data returned
 
-### How to submit your code for review:
+# Anime Quote and Gif Generator : <a target="_blank" href="https://complex-api-jamesphi.netlify.app/">Visit Here</a>
+<img src="complexapi2.gif" width="100%" alt="Travel App"/>
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=%7C&message=HTML5&color=23555f&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=%7C&message=CSS3&color=285f65&style=plastic&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=%7C&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)
+Used two apis in tandem wit fetch's to generate different results based of user input. In this case a quiate from an anime quotes database and a gif is spawned using the user's input.
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## Optimizations
+
+The limitation of the Gif api makes it inable to filter if what is beign presented is actually from an anime. So in theory I could make my own gif api to ensure this or figure out a way to filter gifs based on contents (more complex)
+
+## Lessons Learned:
+
+Strengthened familiarity with APIs and fetching JSON and parsing it. Reinforced the Separation of Concerns. 
